@@ -7,7 +7,8 @@ A new Flutter project.
 <img height="400" src="https://github.com/aakashx58/foodie/assets/106716824/9ccfaab3-c128-4d01-a631-f3d42aa0575d">
 <img height="400" src="https://github.com/aakashx58/foodie/assets/106716824/85d543dc-41ec-458c-ac26-9ed8e8e53bd9">
 
-- App Release -
+- App Release - (extract the zip file first)
+[app-release.zip](https://github.com/aakashx58/foodie/files/14257991/app-release.zip)
 
 
 ## Getting Started
